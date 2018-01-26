@@ -1,2 +1,2 @@
 # Hangman-Game-2
-This is a simulation of the game Hangman. 
+This is a web-based application that acts as a game of hangman -- animal themed! Type a letter in to guess - but guess wisely - you only have ten guesses per word! If you guess the word, a picture of the corresponding animal will appear, and a sound that it makes will play. Additionally, your win counter will increase by one each time you guess a word correctly. To play again, just click on the picture of the animal, and a new word will be generated for you! Have fun! 
