@@ -1,0 +1,209 @@
+h1 { 
+
+	background-color: white;
+    color: magenta;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    border-style: dotted;
+    border-color: purple;
+    margin-top: -1px;
+    padding: 30px 30px 30px 30px;
+    border-width: 5px;
+    /* top: 31px; */
+}
+
+
+#displayAnimal {
+
+    border-style: dotted;
+    border-top: none;
+    border-color: purple;
+    border-width: 5px;
+    background-color: white;
+    width: 555px;
+    height: 497px;
+    top: -10px;
+    /* padding: 10px 10px 10px 10px; */
+    /* margin-top: -10px; */
+    /* margin-left: 100px; */
+    position: relative;
+    /* left: -98px; */
+    color: magenta;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+
+}
+
+#gameStuff {
+
+    border-style: dotted;
+    border-color: purple;
+    border-width: 5px;
+    background-color: white;
+    width: 596px;
+    height: 500px;
+    padding: 10px 10px 10px 10px;
+    /* margin-right: 100px; */
+    /* position: absolute; */
+    right: 100;
+    position: relative;
+    left: 550px;
+    bottom: 510px;
+
+}
+
+h2 {
+
+	background-color: white;
+	color: magenta;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+
+}
+
+#displayWins {
+	
+	text-align: center;
+	color: magenta;
+	font-size: 24px;
+}
+
+#displayGuessesRemaining {
+	
+	text-align: center;
+	color: magenta;
+	font-size: 24px;
+}
+
+#displayCurrentWord {
+	
+	text-align: center;
+	color: magenta;
+	font-size: 24px;
+}
+
+#displayLettersGuessed {
+	
+	text-align: center;
+	color: magenta;
+	font-size: 24px;
+}
+
+#lion {
+    width: 555px;
+    height: 497px;
+}
+
+#cat {
+    width: 555px;
+    height: 497px;
+
+}
+
+#monkey {
+    width: 555px;
+    height: 497px;
+
+}
+
+#elephant {
+    width: 555px;
+    height: 497px;
+
+}
+
+#frog {
+    width: 555px;
+    height: 497px;
+
+}
+
+#hyena {
+    width: 555px;
+    height: 497px;
+
+}
+
+#mouse {
+    width: 555px;
+    height: 497px;
+
+}
+
+#owl {
+    width: 555px;
+    height: 497px;
+
+}
+
+#seal {
+    width: 555px;
+    height: 497px;
+
+}
+
+#otter {
+    width: 555px;
+    height: 497px;
+
+}
+
+#snake {
+    width: 555px;
+    height: 497px;
+
+}
+
+#whale {
+    width: 555px;
+    height: 497px;
+
+}
+
+#wolf {
+    width: 555px;
+    height: 497px;
+
+}
+
+#dog {
+    width: 555px;
+    height: 497px;
+
+}
+
+#cow {
+    width: 555px;
+    height: 497px;
+
+}
+
+#horse {
+    width: 555px;
+    height: 497px;
+
+}
+
+#pig {
+    width: 555px;
+    height: 497px;
+
+}
+
+#sheep {
+    width: 555px;
+    height: 497px;
+
+}
+
+#bumblebee {
+    width: 555px;
+    height: 497px;
+
+}
+
+#dolphin {
+    width: 555px;
+    height: 497px;
+
+}

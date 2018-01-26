@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>Hangman Game</title>
+
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<link rel="stylesheet" type="text/css" href="assets\css\style.css">
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+	<script src="assets/javascript/game.js"></script>
+
+	<style>
+
+	body {
+
+		background: url('assets/images/animal_background.jpg') no-repeat center center fixed;
+
+		background-size: cover; 
+
+        -webkit-background-size: cover; 
+
+        -moz-background-size: cover; 
+
+        -o-background-size: cover; 
+
+        margin: 0; 
+
+        padding: 0; 
+
+        overflow: hidden;
+
+            }
+
+    </style>
+
+</head>
+
+<body>
+
+	<header>
+
+		<h1>Hangman: HangmAnimals!</h1>
+
+	</header>
+
+	<div class="container">
+
+		<div class="row">
+
+			<div class="col-md-6">
+
+					<div id=leftHeader>
+
+						<h1>What's that animal?</h1>
+
+					</div>
+
+					<div class="row">
+
+						<div class="col-md-6">
+
+							<div id="displayAnimal">
+							
+							</div>
+
+						</div>
+
+					</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+		<div class="container">
+			
+			<div class="row">
+				
+				<div class="col-md-6">
+
+					<div id="gameStuff">
+					
+						<div class="row">
+							
+							<div class="col-md-12">
+								
+								<h2>Type in a Letter!</h2>
+
+							</div>
+
+						</div>
+
+						<div class="row">
+							
+							<div class="col-md-12">
+								
+								<h2>Wins:</h2>
+
+							</div>
+
+						</div>
+
+						<div class="row">
+							
+							<div class="col-md-12">
+								
+								<div id="displayWins">
+									
+								</div>
+
+							</div>
+
+						</div>
+
+						<div class="row">
+
+							<div class="col-md-12">
+
+								<h2>Current Word:</h2>	
+
+							</div>
+
+						</div>
+						
+						<div class="row">
+
+							<div class="col-md-12">
+
+								<div id="displayCurrentWord">
+								
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="row">
+
+						<div class="col-md-12">
+							
+							<h2>Guesses remaining:</h2>
+
+						</div>
+
+					</div>
+
+					<div class="row">
+
+						<div class="col-md-12">
+							
+							<div id="displayGuessesRemaining">
+								
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="row">
+
+						<div class="col-md-12">
+							
+							<h2>Letters Not in Word:</h2>
+
+						</div>
+
+					</div>
+
+					<div class="row">
+
+						<div class="col-md-12">
+
+							<div id="displayLettersGuessed">
+								
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>	
+
+			</div> 
+
+		</div>
+
+	</div>
+
+		</section>
+
+	</span>
+
+</body>
+
+</html>
